@@ -14,4 +14,6 @@ public interface MyLineList<T> {
      * @return
      */
     T get(int i);
+
+    boolean isEmpty();
 }
