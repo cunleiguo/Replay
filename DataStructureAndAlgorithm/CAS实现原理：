@@ -3,6 +3,8 @@ CAS实现原理：
 
 
 Thread-0->0
+Log.error("WODE CESHI")
+
 Thread-1->1
 Thread-1->3
 Thread-1->4
